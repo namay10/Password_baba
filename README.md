@@ -1,8 +1,6 @@
-# React + Vite
+# Password Baba
+Password Generator project built with React.js, Tailwind CSS, and JavaScript. Offering a user-friendly interface, it empowers users to create custom passwords with adjustable length and complexity. Seamlessly integrating React.js for dynamic responsiveness and Tailwind CSS for a sleek design, this tool enhances security by incorporating numbers and special characters, providing a versatile and efficient solution.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Interface Screenshot
+![image](https://github.com/namay10/Password_baba/assets/88048179/c1a10bda-f494-413c-b074-0029028faa77)
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
